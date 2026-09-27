@@ -7,3 +7,6 @@ dist/
 
 # Auth files (never commit credentials)
 auth.json
+
+# Generated reports contain real usernames — never commit
+non-followers-*.md
